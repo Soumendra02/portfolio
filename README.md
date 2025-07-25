@@ -37,11 +37,11 @@ Welcome to my **personal portfolio website** built with **React.js**, **Tailwind
 my-portfolio/
 ├── public/
 ├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── pages/
-│ ├── App.jsx
-│ └── main.jsx
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
 ├── tailwind.config.js
 ├── package.json
 └── vite.config.js
