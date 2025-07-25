@@ -1,12 +1,65 @@
-# React + Vite
+# 🚀 Soumendra's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **personal portfolio website** built with **React.js**, **Tailwind CSS**, **Vite**, and deployed live on **Netlify**. This site showcases my projects, skills, and work experience — a one-stop place to know more about me as a developer.
 
-Currently, two official plugins are available:
+🔗 [Live Site](https://soumendra-portfolio.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 💻 Responsive modern design
+- 🌗 Dark-mode compatible
+- 🧠 Typewriter animated intro
+- 🚀 Framer Motion animations
+- 🔀 React Router navigation
+- 📱 Mobile-first approach
+- ⚡ Super-fast loading with Vite
+
+---
+
+## 🛠️ Tech Stack
+
+| Category       | Tools / Frameworks               |
+|----------------|----------------------------------|
+| Frontend       | React.js, Vite                   |
+| Styling        | Tailwind CSS, CSS Modules        |
+| Animations     | Framer Motion, React Typewriter  |
+| Icons          | React Icons                      |
+| Routing        | React Router DOM                 |
+| Deployment     | Netlify                          |
+| Version Control| Git & GitHub                     |
+
+---
+
+## 📁 Folder Structure
+
+my-portfolio/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── pages/
+│ ├── App.jsx
+│ └── main.jsx
+├── tailwind.config.js
+├── package.json
+└── vite.config.js
+
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Soumendra02/portfolio.git
+cd portfolio
+npm install
+npm run dev
+
+📬 Connect With Me
+📧 Email: soumendrapriyadarshi71@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/soumendra-priyadarshi-625865329
